@@ -327,9 +327,7 @@ CSV settings:
 
 #### 4.1 เตรียมไฟล์ CSV นักเรียน
 
-**ไฟล์: `students_m1-1.csv`**
-
-ใช้ไฟล์ตัวอย่างใน `csv-templates/students_sample.csv`
+ใช้ไฟล์ตัวอย่างใน `students_sample.csv`
 
 **รูปแบบ Username:**
 - 68m10101 = ปีเข้า(68) + ระดับ(m1) + ห้อง(01) + เลขที่(01)
